@@ -1,0 +1,54 @@
+╔═══════════════════════════════════════════════╗
+║ PixelArtDocument                V1.0.4.0      ║
+║ Sinel V.  2018                                ║
+╠═══════════════════════════════════════════════╝
+╠═══════════════════════════════════╗
+║Derniere Mise a jour : V. 1.0.4.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Les images selectionnables sont désormais au format png ou bmp évitant ainsi les bug de chargement.
+║	- Le contenu des cases peut désormais être un texte au lieu d'un nombre.
+║	- Les fraction de dénominateur 1 sont désormais afficher comme nombre entier.
+║	- Les fraction on désormais comme dénominateur par défaut 1.
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.3.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Correction d'un bug lors du chargement d'une image plus grande que celle précédement enregistré.
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.2.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Ajout de la récuperation des couleurs de l'image.
+║	- Correction du bug d'enregistrement lorsque la scrollviewer n'est pas à sa position d'origine.
+║	- Correction du bug de mauvaise identification des dénominateur lors des changement d'images.
+║	- Ajout de la couleur "Ciment".
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.1.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Ajout de la mise a jour auto.
+║	- Ajout des gammes de couleurs.
+║	- Ajout de la suppression auto des couleurs non utilisées.
+║	- Ajout des fractions.
+║	- Ajout de l'onglet à propos.
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0.0.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Creation du logiciel.
+║
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
