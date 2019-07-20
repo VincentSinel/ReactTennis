@@ -1,7 +1,15 @@
 ╔══════════════════════════════════════════╗
-║ ReactTennis                V1.0.0.0      ║
+║ ReactTennis                V1.1.0.0      ║
 ║ Sinel V.  2018                           ║
 ╠══════════════════════════════════════════╝
+╠═══════════════════════════════════╗
+║Derniere Mise a jour : V. 1.1.0.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Ajout des sons.
+║	- Ajout de la création de paramètre favori.
+║	- Ajout de la création d'un historique des paramètres.
+║
 ╠═══════════════════════════════════╗
 ║Mise en ligne : V. 1.0.0.0         ║
 ╠═══════════════════════════════════╝
