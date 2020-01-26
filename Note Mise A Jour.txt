@@ -1,9 +1,17 @@
 ╔══════════════════════════════════════════╗
-║ ReactTennis                V1.2.0.0      ║
+║ ReactTennis                V1.3.0.0      ║
 ║ Sinel V.  2018                           ║
 ╠══════════════════════════════════════════╝
 ╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.2.0.0  ║
+║Derniere Mise a jour : V. 1.3.0.0  ║
+╠═══════════════════════════════════╝
+║
+║	- Modification de la selection de couleur pour l'exercice 1.
+║	- Correction de l'avancé de l'exercice en mode infini lorsque le temps de pause est nul.
+║	- Affichage plus clair de la pause entre les exercices.
+║
+╠═══════════════════════════════════╗
+║Ancienne Mise a jour : V. 1.2.0.0  ║
 ╠═══════════════════════════════════╝
 ║
 ║	- Ajout de l'exercice couleur en ligne.
