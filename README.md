@@ -5,7 +5,7 @@ Logiciel d'entrainement sportif basé sur la réactivité.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
